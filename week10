@@ -1,9 +1,6 @@
 main commit 1
 main commit 2
 main commit 2-2
-<<<<<<< HEAD
-=======
 abcdefg
 add master commit 3
->>>>>>> 460295a... add amster commit 3
-
+add main commit 4
