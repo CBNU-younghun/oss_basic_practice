@@ -4,3 +4,7 @@ main commit 2-2
 abcdefg
 add master commit 3
 add main commit 4
+<<<<<<< HEAD
+=======
+
+>>>>>>> fee27178780a5b7113573acac0664ba334789289
